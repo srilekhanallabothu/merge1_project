@@ -1,1 +1,1 @@
-print("Welcome to Git and GitHub Sessions")
+print("Branch Merging Practice")
